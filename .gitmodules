@@ -1,0 +1,3 @@
+[submodule "external/Phi"]
+	path = external/Phi
+	url = https://github.com/AMS21/Phi.git
