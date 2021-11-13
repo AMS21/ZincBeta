@@ -1,1 +1,12 @@
-# ZincBeta
+# ZincBeta ![GitHub](https://img.shields.io/github/license/AMS21/ZincBeta) ​[![https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg](https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg)](https://good-labs.github.io/greater-good-affirmation)
+
+[![Linux](https://github.com/AMS21/ZincBeta/actions/workflows/Linux.yml/badge.svg)](https://github.com/AMS21/ZincBeta/actions/workflows/Linux.yml)
+[![MacOS](https://github.com/AMS21/ZincBeta/actions/workflows/MacOS.yml/badge.svg)](https://github.com/AMS21/ZincBeta/actions/workflows/MacOS.yml)
+[![Windows](https://github.com/AMS21/ZincBeta/actions/workflows/Windows.yml/badge.svg)](https://github.com/AMS21/ZincBeta/actions/workflows/Windows.yml)
+[![Emscripten](https://github.com/AMS21/ZincBeta/actions/workflows/Emscripten.yml/badge.svg)](https://github.com/AMS21/ZincBeta/actions/workflows/Emscripten.yml)
+[![CodeQL](https://github.com/AMS21/ZincBeta/actions/workflows/CodeQLAnalysis.yml/badge.svg)](https://github.com/AMS21/ZincBeta/actions/workflows/CodeQLAnalysis.yml)
+[![CodeFactor](https://www.codefactor.io/repository/github/ams21/zincbeta/badge)](https://www.codefactor.io/repository/github/ams21/zincbeta)
+[![codecov](https://codecov.io/gh/AMS21/ZincBeta/branch/main/graph/badge.svg?token=r6PNaoi7lS)](https://codecov.io/gh/AMS21/ZincBeta)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c131c60e56cc4e1bab1ed7523615141a)](https://www.codacy.com/gh/AMS21/ZincBeta/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AMS21/ZincBeta&amp;utm_campaign=Badge_Grade)
+[![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/AMS21/ZincBeta.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AMS21/ZincBeta/context:cpp)
+![Coverity Scan](https://img.shields.io/coverity/scan/ams21-zincbeta)
