@@ -26,7 +26,7 @@ jobs:
           - { compiler: cl }
           - { compiler: g++ }
           - { compiler: clang++ }
-          - { compiler: clang++, sanitizer: "ubsan" }
+          #- { compiler: clang++, sanitizer: "ubsan" }
 
     steps:
       - name: Checkout
